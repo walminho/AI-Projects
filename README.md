@@ -1,5 +1,5 @@
 # AI-Projects
-**Projetos em Inteligencia Artificial**
+**Projetos em Inteligência Artificial**
 
 ## Os projetos incluem:
 
